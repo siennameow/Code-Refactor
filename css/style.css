@@ -29,7 +29,7 @@ body {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -49,6 +49,7 @@ a {
 }
 
 p {
+    color: #e8e8e8;
     font-size: 16px;
 }
 
@@ -84,8 +85,30 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+}
+
+/*changing orders to match the html semantic element sequence-move down the "benefits" section and move up "content" section*/
+/* Use comma to the classes with same styling to make code more effective-"search-engine-optimization, online-reputation-management, social-media-marketing"*/
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Use comma to the classes with same styling to make code more effective-"search-engine-optimization img, oonline-reputation-management img, social-media-marketing img"*/
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+    max-height: 200px;
+}
+
+/* Use comma to the classes with same styling to make code more effective-"search-engine-optimization h2, oonline-reputation-management h2, social-media-marketing h2"*/
+.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 /* Use comma to the classes with same styling to make code more effective-"benefit-lead, benefit-brand, benefit-cost"*/
@@ -107,27 +130,6 @@ p {
     max-width: 150px;
 }
 
-/* Use comma to the classes with same styling to make code more effective-"search-engine-optimization, online-reputation-management, social-media-marketing"*/
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Use comma to the classes with same styling to make code more effective-"search-engine-optimization img, oonline-reputation-management img, social-media-marketing img"*/
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
-    max-height: 200px;
-}
-
-/* Use comma to the classes with same styling to make code more effective-"search-engine-optimization h2, oonline-reputation-management h2, social-media-marketing h2"*/
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .footer {
     padding: 30px;
     clear: both;
@@ -143,5 +145,5 @@ p {
 .wrapper {
     margin-left:auto;
     margin-right:auto;
-    width:1280px;
+    width:1238px;
 }
