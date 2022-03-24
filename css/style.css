@@ -142,8 +142,8 @@ p {
 }
 
 /* wrap the body to prevent the contents from moving when resizing the page */
-/*.wrapper {
+.wrapper {
     margin-left:auto;
     margin-right:auto;
-    width:1238px;
+    width:960px;
 }
