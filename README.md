@@ -1,31 +1,38 @@
 # Code-Refactor
 
-## Description 
+## Description 📝 
 
-For this project I restructured the existing code to meet the clent's needs. The client is a marketing agency, and they want a codebase that follows accessibility standards, so that their own site is optimized for search engines.I was given some acceptance criteria that the webpage should meets. After working on the code, the apllication does
-1. satisfies all of the preceding acceptance criteria
-2. function correctly with all application's links
-3. properly commented in html and CSS
-4. resembles mock-up provided in the homework instructions 
+For this project I restructured the existing code to meet the clent's needs. The client is a marketing agency, and they want a codebase that follows accessibility standards, so that their own site is optimized for search engines. I was given some acceptance criteria that the webpage should meets. 
 
-## Table of Contents 
+After working on the code, the apllication does satisfies all of the preceding acceptance criteria for web accessibility. \
+The semantic HTML elements are included and they follow a logical structure independent of styling and positioning. \
+The accessible alt attributes are added to html. \
+The heading attributes now fall in sequential order. \
+The title is more concise and descriptive. \
+The application's links are function correctly after fixiing up the anchor link. \
+The efficiency of the CSS is increased after consolidating the selectors and properties. \
+The CSS is follow the semantic structure of the HTML elements after organizing.\
+Comments are added to the HTML and CSS code where I made changes.\
+The final application resembles mock-up provided in the homework instructions.
 
-* [Installation](#installation)
-* [BuiltWith](#builtwith)
+## Table of Contents 📖
+
+* [Usage](#usage)
+* [Technologies](#technologies)
 * [Credits](#credits)
 
-## Installation
+## Usage 📥 
 
-Simplely check it through URL.The URL of the deployed application is provided　as well as the URL of the GitHub repository.
+The URL of the deployed application is provided as well as the URL of the GitHub repository.
 
-## BuiltWith 
+## Technologies 📦
 
--HTML
--CSS 
+HTML\
+CSS 
 
+## Credits 🐳
 
-## Credits
-
-This project is worked by me solo.
-
-
+Thanks to the following people who helped me in this project:
+Jerome Chenette
+Manuel Nunes
+Vince Lee
