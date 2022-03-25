@@ -18,24 +18,24 @@ The final application resembles mock-up provided in the homework instructions.
 ## Table of Contents 📖
 
 * [Usage](#usage)
-* [Final Page](#finalpage)
+* [Final Page](#final-page)
 * [Technologies](#technologies)
 * [Credits](#credits)
 
-## Usage 📥 
+## Usage
 
 The URL of the deployed application is provided as well as the URL of the GitHub repository.
 
-## Final Page ✅
+## Final Page
 
 <img width="388" alt="Screen Shot 2022-03-24 at 4 39 28 PM" src="https://user-images.githubusercontent.com/101283174/160027545-1089daca-b931-4b0b-821c-f3caa59f292b.png">
 
-## Technologies 📦
+## Technologies
 
 HTML\
 CSS 
 
-## Credits 🐳
+## Credits
 
 Thanks to the following people who helped me in this project:
 Jerome Chenette
