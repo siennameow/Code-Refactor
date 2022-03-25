@@ -39,7 +39,7 @@ CSS
 
 ## Credits
 
-Thanks to the following people who helped me in this project:
+Thanks to the following people who helped me in this project:\
 Jerome Chenette\
 Manuel Nunes\
 Vince Lee
