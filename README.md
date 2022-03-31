@@ -25,9 +25,6 @@ The final application resembles mock-up provided in the homework instructions.
 ## Usage
 
 The URL of the deployed application is provided as well as the URL of the GitHub repository.\
-https://github.com/siennameow/Code-Refactor\
-https://siennameow.github.io/Code-Refactor/
-
 
 https://github.com/siennameow/Code-Refactor
 
